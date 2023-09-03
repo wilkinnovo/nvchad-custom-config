@@ -28,8 +28,6 @@ local sources = {
   b.formatting.stylua,
   -- Cpp
   b.formatting.clang_format,
-  -- Go
-  b.formatting.gofmt,
   -- Rust
   b.formatting.rustfmt,
 }
